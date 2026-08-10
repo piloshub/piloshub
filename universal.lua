@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/piloshub/piloshub/refs/heads/main/universal.lua"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/T1wfLEuuqpN4FKQA/raw"))()
